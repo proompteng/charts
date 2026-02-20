@@ -1,4 +1,5 @@
 # Agents Helm Chart
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/agents)](https://artifacthub.io/packages/search?repo=agents)
 
 Production Helm chart for the Agents control plane (Jangar) plus the full Agents CRD suite.
 
